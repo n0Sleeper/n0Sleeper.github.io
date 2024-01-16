@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://n0sleeper.github.io/posts/4802fccc/</loc>
+    
+    <lastmod>2024-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://n0sleeper.github.io/posts/e754e93d/</loc>
     
     <lastmod>2024-01-16</lastmod>
@@ -76,6 +85,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://n0sleeper.github.io/tags/PHP/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -87,6 +103,13 @@
   
   <url>
     <loc>https://n0sleeper.github.io/categories/PHP/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://n0sleeper.github.io/categories/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/Web%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
